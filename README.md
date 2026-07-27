@@ -96,7 +96,6 @@ Szczegółowe wykresy, obliczenia i interpretacje znajdują się w notebooku.
 | --- | --- |
 | [`air pollution Krakow.ipynb`](air%20pollution%20Krakow.ipynb) | pełna analiza i wizualizacje |
 | [`data.csv`](data.csv) | dzienne dane AQI |
-| [`Machine learning.ipynb`](Machine%20learning.ipynb) | osobny notebook z projektem ML |
 
 ---
 
